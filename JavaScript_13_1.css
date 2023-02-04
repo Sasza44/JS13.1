@@ -1,0 +1,42 @@
+html{
+    background-color: rgb(235, 145, 72);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+}
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.currency-rates{
+    font-size: 24px;
+    background-color: chartreuse;
+    width: 200px;
+    height: 60px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 50px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+table{
+    font-size: 14px;
+    background-color: aquamarine;
+    height: auto;
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 400px;
+}
+div{
+    font-size: 24px;
+    margin-left: 100px;
+    width: 100px;
+    background-color: crimson;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+}
